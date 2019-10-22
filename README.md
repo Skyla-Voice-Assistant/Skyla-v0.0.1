@@ -1,6 +1,6 @@
 # Skyla-v0.0.1
 
-# Command :
+# Commands :
 
 - Hey Skyla
   
