@@ -8,7 +8,7 @@
 - suche etwas
 
 
--schreib etwas auf
+- schreib etwas auf
 
 
--exit / stop / schließen
+- exit / stop / schließen
